@@ -46,12 +46,12 @@ body * {
   height: 712px;
   border: 1px solid red;
   */
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* Centralizar a Caixinha */
   margin: 56px auto 0px;
-  padding: 24px;
+  padding: 0 24px;
 }
-
 
 /* Profile */
 #profile {
